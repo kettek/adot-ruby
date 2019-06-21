@@ -1,0 +1,6 @@
+devid=kettek
+devtitle=Ketchetwahmeegwun T. Southall
+gameid=talan
+gametitle=Across a Desert of Talan
+version=0.1
+#icon=metadata/icon.png
